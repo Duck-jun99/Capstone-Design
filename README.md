@@ -1,5 +1,5 @@
 ## [Capstone-Design] 
-## Team: Jundroid
+#### Team: Jundroid
 
 다른 디바이스의 컨트롤러로 사용할 수 있게 하는 Android Application 구현
 ==============================================================================
