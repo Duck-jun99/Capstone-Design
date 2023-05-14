@@ -1,4 +1,4 @@
-## [Capstone-Design] </br>- 다른 디바이스의 컨트롤러로 사용할 수 있게 하는 Android Application 구현
+## [Capstone-Design] </br>다른 디바이스의 컨트롤러로 사용할 수 있게 하는 Android Application 구현
 #### Team: Jundroid
 </br>
 
@@ -6,6 +6,7 @@
 ## 구성
 ### [Producer Application](https://github.com/Duck-jun99/producer_kotlin_App)
 ### [Consumer Application](https://github.com/Duck-jun99/consumer_kotlin_App)
+### [PHP - Server](https://github.com/Duck-jun99/Capstone-PHP)
 
 ##
 </br>
@@ -22,7 +23,7 @@
  
  > - #### 1. Controller 역할을 하는 Application 개발.
  > - #### 2. Android Mobile Device 안에 Termux 설치.
- > - #### 3. Termux 위에 Ubuntu(aarch64기반) 설치 후 Xampp 이용하여 Web server 구성.
+ > - #### 3. Termux 위에 Debian(aarch64기반) 설치 후 Apache, PHP, MariaDB 이용하여 Web server 구성.
  ##
 
  - ### Producer, Consumer Android Application : Kotlin 언어 사용
